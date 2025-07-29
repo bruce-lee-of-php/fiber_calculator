@@ -1,8 +1,8 @@
 # Fiber Optic Installation Cost Estimator 🏗️
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![Issues](https://img.shields.io/github/issues/your-username/your-repo-name)](https://github.com/your-username/your-repo-name/issues)
-[![Pull Requests](https://img.shields.io/github/issues-pr/your-username/your-repo-name)](https://github.com/your-username/your-repo-name/pulls)
+[![Issues](https://img.shields.io/github/issues/bruce-lee-of-php/fiber_calculator](https://github.com/bruce-lee-of-php/fiber_calculator/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/bruce-lee-of-php/fiber_calculator)](https://github.com/bruce-lee-of-php/fiber_calculator/pulls)
 
 A comprehensive educational app built with Flutter to estimate the costs of outside plant (OSP) fiber optic installations. This tool moves beyond simple averages by incorporating detailed, real-world variables to provide a more accurate budget forecast.
 
